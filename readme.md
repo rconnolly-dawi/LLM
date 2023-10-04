@@ -5,7 +5,7 @@
 ### Tecnico informatico
 Palma de Mallorca, España  
 (+34) 626200565  
-robertoconnolly100@gmail.com
+robertoconnolly100@gmail.com  
 Edad: 21 Años  
 Github: https://github.com/rconnolly2
 
