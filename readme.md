@@ -1,7 +1,7 @@
 **CURICULUM VITAE**
 
 # Roberto Connolly Ramis
-
+![mi_foto](https://i.ibb.co/GVw0kbq/imageedit-1-3372783735.jpg)
 ### Tecnico informatico
 Palma de Mallorca, España  
 (+34) 626200565  
@@ -12,15 +12,11 @@ Github: https://github.com/rconnolly2
 
 🔵 **EXPERIENCIA PROFESIONAL**
 
-**_TUI Spain Group, Tecnico informatico | Palma de Mallorca, España_**
-+ Trabajando como tecnico informatico en la sede de TUI España utilizando aplicaciones informaticas como Jira, Active directory y programacion en powershell para hacer el onboarding.
-+ Programé un programa con powershell y QT para preparar equipos de manera automatica.
-
+**_TUI Spain Group, Técnico informático | Palma de Mallorca, España_**
 
 2023 - 2023 (8 Meses)
-
->Obtención del título para trabajar con personas de
-movilidad reducida.
++ Trabajando como técnico informático en la sede de TUI España utilizando aplicaciones informáticas como Jira, Active directory y programación en PowerShell para hacer el onboarding.
++ Programé un programa con PowerShell y QT para preparar equipos de manera automática.
 
 **_Coppice Care, Cuidador de Niños con movilidad reducida y
 autismo | Brighton, Reino Unido_**
@@ -47,7 +43,7 @@ sistemas de sonido
 
 >[**_Todo-redes_**](https://todo-redes.com/) | 2017 - 2018
 
-+ Curso OpenCV PyImageSearch
++ Curso OpenCV [**PyImageSearch**](https://pyimagesearch.com/)
 
 >Online | 2021 - 2021
 
